@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/projectDashboard/static/css/main.182e5f2b.css",
+    "main.js": "/projectDashboard/static/js/main.53dc3f6c.js",
+    "index.html": "/projectDashboard/index.html",
+    "static/media/dashboard_icon.svg": "/projectDashboard/static/media/dashboard_icon.bc800f3b9286b71005c3f026ebfaa958.svg",
+    "static/media/add_icon.svg": "/projectDashboard/static/media/add_icon.376e9b6a44e5b3142f1239a3cc8504d0.svg",
+    "main.182e5f2b.css.map": "/projectDashboard/static/css/main.182e5f2b.css.map",
+    "main.53dc3f6c.js.map": "/projectDashboard/static/js/main.53dc3f6c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.182e5f2b.css",
+    "static/js/main.53dc3f6c.js"
+  ]
+}
